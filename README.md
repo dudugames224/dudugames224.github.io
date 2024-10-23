@@ -5,3 +5,5 @@ Eduardo C J Gonçalves é estudante do segundo ano de informática do Instituto 
   |Ano|localdeestudo|
   |:-----|:----:|---:|
   |2024|ifpr|
+
+  ![Minha personalidade](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRJvppQqSDIor1cG993TzcpnvvKkOsKC523HZBOZWqQ_EZRj0F3ImI63OimacPYgVEgwbSAeFBMKbIKiYk3grhWnxm14_LOpCqiFUfyQx4)
