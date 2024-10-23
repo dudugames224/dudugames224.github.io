@@ -6,7 +6,7 @@ Eduardo C J Gonçalves é estudante do segundo ano de informática do Instituto 
 ###### MINHA VIDA ESCOLAR
 
 |Ano|local de estudo|
-|:-----|:----:|
+|:---|:---------------:|
 |2024|ifpr|
 |2023|Tecpuc|
 |2022|Colégo Modelo|
